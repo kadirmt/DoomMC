@@ -1,0 +1,36 @@
+# Gradle caches and generated output
+.gradle/
+**/build/
+out/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local Minecraft instances, worlds, logs, and installation bundles
+run/
+runs/
+kurulum/
+logs/
+crash-reports/
+*.log
+
+# IDE and operating system files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+local.properties
+*.keystore
+*.jks
+*.pem
+*.key

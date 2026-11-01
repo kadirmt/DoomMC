@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,origin=false": { "model": "doommc:block/doom_screen" },
+    "facing=north,origin=true": { "model": "doommc:block/doom_screen" },
+    "facing=south,origin=false": { "model": "doommc:block/doom_screen" },
+    "facing=south,origin=true": { "model": "doommc:block/doom_screen" },
+    "facing=east,origin=false": { "model": "doommc:block/doom_screen" },
+    "facing=east,origin=true": { "model": "doommc:block/doom_screen" },
+    "facing=west,origin=false": { "model": "doommc:block/doom_screen" },
+    "facing=west,origin=true": { "model": "doommc:block/doom_screen" }
+  }
+}

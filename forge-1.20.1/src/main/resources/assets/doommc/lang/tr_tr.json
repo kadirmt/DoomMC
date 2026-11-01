@@ -1,0 +1,24 @@
+{
+  "itemGroup.doommc.main": "DoomMC",
+
+  "block.doommc.doom_screen": "Dev Ekran",
+  "item.doommc.doom_screen": "Dev Ekran",
+  "item.doommc.doom_remote": "Doomplayer Kumanda",
+
+  "screen.doommc.title": "DOOM",
+  "hud.doommc.playing_hint": "FARE nisan   W/S ileri-geri   A/D yan adim   SOL TIK ates   SPACE kapi   SHIFT kos   1/2/3 silah   F10 cik",
+
+  "message.doommc.screen_placed": "Ekran kuruldu. Kumandayla sag tikla ve esles.",
+  "message.doommc.no_room": "Yeterli yer yok - %sx%s bosluk lazim.",
+  "message.doommc.linked": "Kumanda bu ekrana eslesti.",
+  "message.doommc.not_linked": "Once bir ekrana sag tiklayip esles.",
+  "message.doommc.broken_screen": "Bu ekran bozuk, tekrar kur.",
+  "message.doommc.screen_missing": "Eslesen ekran artik yok.",
+  "message.doommc.stopped": "Oyun kapatildi.",
+  "message.doommc.busy": "Bu ekranda su an baskasi oynuyor.",
+  "message.doommc.version_mismatch": "Sunucudaki ve sendeki mod surumu uyusmuyor.",
+
+  "tooltip.doommc.remote_unlinked": "Eslesmemis - bir ekrana sag tikla",
+  "tooltip.doommc.remote_linked": "Eslesti: %s, %s, %s",
+  "tooltip.doommc.remote_help": "Sag tik: oyna   Sneak + sag tik: kapat"
+}

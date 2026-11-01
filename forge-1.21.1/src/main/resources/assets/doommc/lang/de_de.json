@@ -1,0 +1,24 @@
+{
+  "itemGroup.doommc.main": "DoomMC",
+
+  "block.doommc.doom_screen": "Riesenbildschirm",
+  "item.doommc.doom_screen": "Riesenbildschirm",
+  "item.doommc.doom_remote": "Doomplayer-Fernbedienung",
+
+  "screen.doommc.title": "DOOM",
+  "hud.doommc.playing_hint": "MAUS zielen   W/S laufen   A/D seitwärts   LINKSKLICK feuern   LEER Tür   SHIFT rennen   1/2/3 Waffe   F10 beenden",
+
+  "message.doommc.screen_placed": "Bildschirm aufgebaut. Rechtsklick mit der Fernbedienung zum Koppeln.",
+  "message.doommc.no_room": "Nicht genug Platz - es wird eine freie Fläche von %sx%s benötigt.",
+  "message.doommc.linked": "Fernbedienung mit diesem Bildschirm gekoppelt.",
+  "message.doommc.not_linked": "Erst per Rechtsklick mit einem Bildschirm koppeln.",
+  "message.doommc.broken_screen": "Dieser Bildschirm ist beschädigt, baue ihn neu.",
+  "message.doommc.screen_missing": "Der gekoppelte Bildschirm existiert nicht mehr.",
+  "message.doommc.stopped": "Spiel beendet.",
+  "message.doommc.busy": "Auf diesem Bildschirm spielt gerade jemand anderes.",
+  "message.doommc.version_mismatch": "Mod-Version von Server und Client stimmen nicht überein.",
+
+  "tooltip.doommc.remote_unlinked": "Nicht gekoppelt - Rechtsklick auf einen Bildschirm",
+  "tooltip.doommc.remote_linked": "Gekoppelt: %s, %s, %s",
+  "tooltip.doommc.remote_help": "Rechtsklick: spielen   Schleichen + Rechtsklick: beenden"
+}

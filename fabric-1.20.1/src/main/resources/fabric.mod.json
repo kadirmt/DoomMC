@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "doommc",
+  "version": "${version}",
+  "name": "DoomMC",
+  "description": "Dev ekran blogu ve kumanda ile Minecraft icinde oynanabilir bir Doom klonu.",
+  "authors": [
+    "akadi"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.akadi.doommc.DoomMC"
+    ],
+    "client": [
+      "com.akadi.doommc.client.DoomMCClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+
+[[mods]]
+modId = "doommc"
+version = "1.0.0"
+displayName = "DoomMC"
+description = "Dev ekran blogu ve kumanda ile Minecraft icinde oynanabilir bir Doom klonu."
+authors = "akadi"
+
+[[dependencies.doommc]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.doommc]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"

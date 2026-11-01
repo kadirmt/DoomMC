@@ -1,0 +1,24 @@
+{
+  "itemGroup.doommc.main": "DoomMC",
+
+  "block.doommc.doom_screen": "Giant Screen",
+  "item.doommc.doom_screen": "Giant Screen",
+  "item.doommc.doom_remote": "Doomplayer Remote",
+
+  "screen.doommc.title": "DOOM",
+  "hud.doommc.playing_hint": "MOUSE aim   W/S move   A/D strafe   LEFT CLICK fire   SPACE door   SHIFT run   1/2/3 weapon   F10 quit",
+
+  "message.doommc.screen_placed": "Screen assembled. Right click it with the remote to pair.",
+  "message.doommc.no_room": "Not enough room - needs a clear %sx%s area.",
+  "message.doommc.linked": "Remote paired to this screen.",
+  "message.doommc.not_linked": "Pair with a screen first by right clicking it.",
+  "message.doommc.broken_screen": "That screen is damaged, rebuild it.",
+  "message.doommc.screen_missing": "The paired screen is gone.",
+  "message.doommc.stopped": "Game shut down.",
+  "message.doommc.busy": "Someone else is playing on this screen.",
+  "message.doommc.version_mismatch": "Server and client mod versions do not match.",
+
+  "tooltip.doommc.remote_unlinked": "Not paired - right click a screen",
+  "tooltip.doommc.remote_linked": "Paired: %s, %s, %s",
+  "tooltip.doommc.remote_help": "Right click: play   Sneak + right click: shut down"
+}

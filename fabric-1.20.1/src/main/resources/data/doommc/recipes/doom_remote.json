@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "B",
+    "R",
+    "I"
+  ],
+  "key": {
+    "B": { "item": "minecraft:stone_button" },
+    "R": { "item": "minecraft:redstone" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "item": "doommc:doom_remote",
+    "count": 1
+  }
+}

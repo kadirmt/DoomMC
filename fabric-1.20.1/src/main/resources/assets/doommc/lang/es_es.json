@@ -1,0 +1,24 @@
+{
+  "itemGroup.doommc.main": "DoomMC",
+
+  "block.doommc.doom_screen": "Pantalla gigante",
+  "item.doommc.doom_screen": "Pantalla gigante",
+  "item.doommc.doom_remote": "Mando Doomplayer",
+
+  "screen.doommc.title": "DOOM",
+  "hud.doommc.playing_hint": "RATÓN apunta   W/S mueve   A/D lateral   CLIC IZQ dispara   ESPACIO puerta   SHIFT corre   1/2/3 arma   F10 salir",
+
+  "message.doommc.screen_placed": "Pantalla montada. Haz clic derecho con el mando para vincularla.",
+  "message.doommc.no_room": "No hay sitio suficiente - se necesita un área libre de %sx%s.",
+  "message.doommc.linked": "Mando vinculado a esta pantalla.",
+  "message.doommc.not_linked": "Primero vincúlalo haciendo clic derecho en una pantalla.",
+  "message.doommc.broken_screen": "Esa pantalla está dañada, reconstrúyela.",
+  "message.doommc.screen_missing": "La pantalla vinculada ya no existe.",
+  "message.doommc.stopped": "Juego apagado.",
+  "message.doommc.busy": "Otra persona está jugando en esta pantalla.",
+  "message.doommc.version_mismatch": "La versión del mod del servidor y del cliente no coinciden.",
+
+  "tooltip.doommc.remote_unlinked": "Sin vincular - clic derecho en una pantalla",
+  "tooltip.doommc.remote_linked": "Vinculado: %s, %s, %s",
+  "tooltip.doommc.remote_help": "Clic derecho: jugar   Agachado + clic derecho: apagar"
+}
